@@ -6,7 +6,6 @@ A fun and interactive Flutter quiz application that challenges users with entert
 **Preview**:  
 Run the app on Android, iOS, or directly on the web (Chrome) using `flutter run`.
 
-![Quiz Preview](https://via.placeholder.com/600x300.png?text=App+Preview) <!-- You can replace this with your real preview screenshot or gif -->
 
 ---
 
