@@ -1,16 +1,46 @@
-# entertainment_trivia_quiz
+# Entertainment Trivia Quiz App
 
-A new Flutter project.
+A fun and interactive Flutter quiz application that challenges users with entertainment-themed questions — from movies and TV shows to pop culture. This project demonstrates Flutter development with JSON data parsing, dynamic UI updates, and local data persistence using SQLite.
 
-## Getting Started
+## Demo
+**Preview**:  
+Run the app on Android, iOS, or directly on the web (Chrome) using `flutter run`.
 
-This project is a starting point for a Flutter application.
+![Quiz Preview](https://via.placeholder.com/600x300.png?text=App+Preview) <!-- You can replace this with your real preview screenshot or gif -->
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Multiple-Choice Questions**  
+  Dynamically loads questions from a local `JSON` file.
+
+- **Score Tracking**  
+  Displays your final score based on correct answers.
+
+- **SQLite Integration**  
+  Saves scores locally using SQLite (disabled for web builds for compatibility).
+
+- **Responsive Design**  
+  Fully adaptive UI built with Flutter’s modern widget system.
+
+- **Web Compatibility**  
+  Uses `kIsWeb` check to ensure smooth execution on both mobile and browser platforms.
+
+---
+
+## Technologies Used
+
+- **Flutter & Dart**  
+- **SQLite (`sqflite` package)**  
+- **JSON Asset Management**  
+- **Material Design Widgets**  
+
+---
+
+## Installation & Setup
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/entertainment_trivia_quiz.git
+   cd entertainment_trivia_quiz
