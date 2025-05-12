@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which movie features the character \"Buzz Lightyear\"?",
+    "options": ["Toy Story", "Star Wars", "The Incredibles", "Monsters, Inc."],
+    "answer": "Toy Story"
+  },
+  {
+    "question": "Who is the lead singer of the band Queen?",
+    "options": ["Freddie Mercury", "Elvis Presley", "Michael Jackson", "Prince"],
+    "answer": "Freddie Mercury"
+  },
+  {
+    "question": "In the TV show 'Breaking Bad', what is the main character's name?",
+    "options": ["Walter White", "Tony Soprano", "Don Draper", "Rick Grimes"],
+    "answer": "Walter White"
+  },
+  {
+    "question": "Who directed the movie 'Jurassic Park'?",
+    "options": ["Steven Spielberg", "James Cameron", "Peter Jackson", "Ridley Scott"],
+    "answer": "Steven Spielberg"
+  },
+  {
+    "question": "What is the name of the fictional town where the series 'Stranger Things' is set?",
+    "options": ["Hawkins", "Sunnydale", "Mystic Falls", "Stars Hollow"],
+    "answer": "Hawkins"
+  }
+]
